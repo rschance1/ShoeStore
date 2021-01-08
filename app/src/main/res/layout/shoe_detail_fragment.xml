@@ -7,11 +7,9 @@
         <variable
             name="shoeViewModel"
             type="com.udacity.shoestore.screens.shoe.ShoeViewModel" />
-
-<!--        <variable-->
-<!--            name="shoe"-->
-<!--            type="com.udacity.shoestore.models.Shoe" />-->
     </data>
+
+    <!--Constraintlayout used for easier use of positioning complex layout elements -->
 
     <androidx.constraintlayout.widget.ConstraintLayout xmlns:tools="http://schemas.android.com/tools"
         android:layout_width="match_parent"

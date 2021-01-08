@@ -12,6 +12,8 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent">
 
+    <!-- LinearLayout used for a quick flexible way for showing our shoe items -->
+
             <LinearLayout
                 android:id="@+id/shoe_list_layout"
                 android:layout_width="match_parent"
