@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="email_label_text">Email</string>
+    <string name="password_label_text">Password</string>
+    <string name="signin_button">Sign In</string>
+    <string name="create_account_button">Create new account</string>
+    <string name="hint_password_text">Enter password</string>
+    <string name="hint_email_text">Enter email</string>
+    <string name="welcome_text_one">Welcome To The Shoe Store</string>
+    <string name="welcome_text_two">
+        Hello, and welcome to our shoe store.
+        \nWe take pride in supplying you with the latest and greatest selection of shoes!
+        \n
+        \nWe created this app to keep up with our shoe inventory for all of our new and existing shoes to better serve our customers.</string>
+    <string name="instruction_text_one">Instructions for our Store</string>
+    <string name="instruction_text_two">
+        Here is the instructions for our shoe store. Press the button below to navigate to the shoe input screen and press the + button to create your shoe then press the save button to add to inventory or cancel button to cancel selection.
+    </string>
+    <string name="welcome_button">Next</string>
+    <string name="instruction_button">Go to shoe input</string>
+    <string name="add_shoe">Add Shoe</string>
+    <string name="logout_text">Logout</string>
+    <string name="shoe_name_text">Name</string>
+    <string name="company_name_text">Company</string>
+    <string name="shoe_size_text">Size</string>
+    <string name="description_text">Description</string>
+    <string name="enter_name_hint_text">enter name</string>
+    <string name="enter_company_hint_text">enter company name</string>
+    <string name="enter_shoe_size_hint_text">enter shoe size</string>
+    <string name="enter_description_hint_text">enter a description</string>
+    <string name="save_button_text">save</string>
+    <string name="cancel_button_text">Cancel</string>
+</resources>
